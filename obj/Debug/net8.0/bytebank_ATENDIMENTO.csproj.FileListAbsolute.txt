@@ -1,0 +1,14 @@
+C:\codigos\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\bin\Debug\net8.0\bytebank_ATENDIMENTO.exe
+C:\codigos\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\bin\Debug\net8.0\bytebank_ATENDIMENTO.deps.json
+C:\codigos\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\bin\Debug\net8.0\bytebank_ATENDIMENTO.runtimeconfig.json
+C:\codigos\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\bin\Debug\net8.0\bytebank_ATENDIMENTO.dll
+C:\codigos\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\bin\Debug\net8.0\bytebank_ATENDIMENTO.pdb
+C:\codigos\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net8.0\bytebank_ATENDIMENTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigos\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net8.0\bytebank_ATENDIMENTO.AssemblyInfoInputs.cache
+C:\codigos\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net8.0\bytebank_ATENDIMENTO.AssemblyInfo.cs
+C:\codigos\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net8.0\bytebank_ATENDIMENTO.csproj.CoreCompileInputs.cache
+C:\codigos\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net8.0\bytebank_ATENDIMENTO.dll
+C:\codigos\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net8.0\refint\bytebank_ATENDIMENTO.dll
+C:\codigos\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net8.0\bytebank_ATENDIMENTO.pdb
+C:\codigos\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net8.0\bytebank_ATENDIMENTO.genruntimeconfig.cache
+C:\codigos\bytebank_ATENDIMENTO\bytebank_ATENDIMENTO\obj\Debug\net8.0\ref\bytebank_ATENDIMENTO.dll
